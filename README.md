@@ -1,0 +1,2 @@
+# HomeAssistant Verbund Linie component
+
