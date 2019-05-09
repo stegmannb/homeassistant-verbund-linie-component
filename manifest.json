@@ -1,0 +1,8 @@
+{
+    "domain": "verbund_linie",
+    "name": "Verbund Linie",
+    "documentation": "https://www.example.com",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["tzlocal"]
+  }
