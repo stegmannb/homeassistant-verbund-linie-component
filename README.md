@@ -20,6 +20,6 @@ sensor:
     # Optional field, maximum stop event that will be fetched, default is 10
     max_results: 3
     # this url of the api endpoint
-    # The url is not public and the license does the redistribution of the url, but you can request access for free. See the FAQ at https://www.verbundlinie.at/fahrplan/rund-um-den-fahrplan/link-zum-fahrplan# (only in german)
+    # The url is not public and the license prohibits the redistribution of the url. You can request access for free by sending a email to Verbund Linie. See the FAQ at https://www.verbundlinie.at/fahrplan/rund-um-den-fahrplan/link-zum-fahrplan# (only in german)
     api_endpoint: api_enpoint_url
 ```
